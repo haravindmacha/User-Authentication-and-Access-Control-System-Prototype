@@ -44,13 +44,16 @@ This project involves designing and implementing a user authentication and acces
 
 ## Technologies Used
 
-- **Programming Languages:** Python, C
+- **Programming Languages:** Python, C, SQL
 - **Security Libraries:** Python Cryptographic Services, C OpenSSL Library
 - **Access Control Models:** Role-Based Access Control (RBAC)
 - **Development Tools:** Virtual Machine (VM) environment
 
 ## Installation
 
-1. **Clone the Repository:**
-   ```sh
-   git clone https://github.com/yourusername/finvest-auth-access-control.git
+1. Download the sources Files
+2. Open any terminal so command prompt or PowerShell or linux shell
+3. Go to the directory where the source code is located using cd commands
+4. Enter the following text: python main.py
+5. And click enter, then the program will run 
+
