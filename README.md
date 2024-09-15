@@ -44,7 +44,7 @@ This project involves designing and implementing a user authentication and acces
 
 ## Technologies Used
 
-- **Programming Languages:** Python, C, SQL
+- **Programming Languages:** Python
 - **Security Libraries:** Python Cryptographic Services, C OpenSSL Library
 - **Access Control Models:** Role-Based Access Control (RBAC)
 - **Development Tools:** Virtual Machine (VM) environment
